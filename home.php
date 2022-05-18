@@ -54,7 +54,7 @@
       <div class="box">
          <h3>Extra Links</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
-         <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+         <a href="about.php"> <i class="fas fa-angle-right"></i> about us</a>
          <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
          <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
       </div>
@@ -62,24 +62,24 @@
 <!-- Contact us menu starts here  -->
       <div class="box">
          <h3>contact info</h3>
-         <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
-         <a href="#"> <i class="fas fa-phone"></i> +111-222-3333 </a>
-         <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
-         <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +88 01303477128 </a>
+         <a href="#"> <i class="fas fa-phone"></i> +88 01738391163 </a>
+         <a href="#"> <i class="fas fa-envelope"></i> tajul.islamdev@gmail.com </a>
+         <a href="#"> <i class="fas fa-map"></i> Jashore, Bangladesh - 7400 </a>
       </div>
 <!-- Contact us menu ends here  -->
 <!-- Follow us menu ends here  -->
       <div class="box">
          <h3>follow us</h3>
-         <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-         <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+         <a target="_blank" href="https://www.facebook.com/devloper.tajul/"> <i class="fab fa-facebook-f"></i> facebook </a>
+         <a target="_blank" href="https://www.instagram.com/shahedi_bilash222/"> <i class="fab fa-twitter"></i> twitter </a>
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-         <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+         <a target="_blank" href="https://www.linkedin.com/in/tajul-islam-627tj/"> <i class="fab fa-linkedin"></i> linkedin </a>
       </div>
 <!-- Follow us menu ends here  -->
    </div>
 
-   <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
+   <div class="credit"> created by <span id="special"><a target="_blank" href="https://github.com/627md-Tajul-Islam">Tajul Islam & Team</span></a> | all rights reserved! </div>
 <!-- footer menu ends here  -->
 </section>
 <!-- footer ends -->

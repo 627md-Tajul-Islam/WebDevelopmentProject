@@ -587,6 +587,11 @@ section{
    color:var(--main-color);
 }
 
+.credit #special a{
+ color:rgb(12, 220, 223) !important;
+}
+
+
 /* media queries  */
 @media (max-width:1200px){
    section{
