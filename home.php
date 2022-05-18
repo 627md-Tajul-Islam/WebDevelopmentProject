@@ -50,15 +50,16 @@
          <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
       </div>
 <!-- Quick link menu ends here  -->
-
+ <!-- Extra link menu ends here  -->
       <div class="box">
-         <h3>extra links</h3>
+         <h3>Extra Links</h3>
          <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
          <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
          <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
          <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
       </div>
-
+<!-- Extra link menu ends here  -->
+<!-- Contact us menu starts here  -->
       <div class="box">
          <h3>contact info</h3>
          <a href="#"> <i class="fas fa-phone"></i> +123-456-7890 </a>
@@ -66,7 +67,8 @@
          <a href="#"> <i class="fas fa-envelope"></i> shaikhanas@gmail.com </a>
          <a href="#"> <i class="fas fa-map"></i> mumbai, india - 400104 </a>
       </div>
-
+<!-- Contact us menu ends here  -->
+<!-- Follow us menu ends here  -->
       <div class="box">
          <h3>follow us</h3>
          <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
@@ -74,7 +76,7 @@
          <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
          <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
       </div>
-
+<!-- Follow us menu ends here  -->
    </div>
 
    <div class="credit"> created by <span>mr. web designer</span> | all rights reserved! </div>
