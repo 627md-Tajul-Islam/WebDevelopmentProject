@@ -166,7 +166,15 @@
 </section>
 <!-- home packages section ends -->
 
-
+<!-- offer section starts  -->
+<section class="home-offer">
+   <div class="content">
+      <h3>up-to 50% off</h3>
+      <p>So, when we decided we were going to jump aboard the discount train and offer a 50% reduction in the cost of all our courses for a period, we thought long and hard about it.</p>
+      <a href="book.php" class="btn">book now</a>
+   </div>
+</section>
+<!-- offer section ends -->
 
 
 
