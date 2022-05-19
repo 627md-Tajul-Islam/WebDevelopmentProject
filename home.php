@@ -43,21 +43,21 @@
 
       <div class="swiper-wrapper">
 <!-- 3 div starts  -->
-         <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/home-1.jpg) no-repeat">
             <div class="content">
                <span>Travel is the only thing you buy that makes you richer</span>
                <h3>travel around the world</h3>
                <a href="package.php" class="btn">discover more</a>
             </div>
          </div>
-         <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/home-2.jpg) no-repeat">
             <div class="content">
                <span>Life is a journey, not a destination</span>
                <h3>discover the new places</h3>
                <a href="package.php" class="btn">discover more</a>
             </div>
          </div>
-         <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+         <div class="swiper-slide slide" style="background:url(images/home-3.jpg) no-repeat">
             <div class="content">
                <span>"Do not look back with regret</span>
                <h3>make your tour worthwhile</h3>
@@ -74,8 +74,18 @@
 </section>
 <!-- home section ends -->
 
-
-
+<!-- home about section starts  -->
+<section class="home-about">
+   <div class="image">
+      <img src="images/about.jpg" alt="">
+   </div>
+   <div class="content">
+      <h3>about us</h3>
+      <p>A travel agency is a private retailer or public service that provides travel and tourism-related services to the general public on behalf of accommodation or travel suppliers to offer different kinds of travelling packages for each destination.</p>
+      <a href="about.php" class="btn">read more</a>
+   </div>
+</section>
+<!-- home about section ends -->
 
 <!-- services section starts  -->
 <section class="services">
@@ -110,6 +120,55 @@
 <!-- services card ends  -->
 </section>
 <!-- services section ends -->
+
+<!-- home packages section starts  -->
+<section class="home-packages">
+   <h1 class="heading-title"> our packages </h1>
+<!-- package section starts  -->
+   <div class="box-container">
+<!-- 3 card starts  -->
+      <div class="box">
+         <div class="image">
+            <img src="images/image-1.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Taste of Europe</h3>
+            <p>The 15-day taste of Europe Tour will take you to the heart of nine uniquely beautiful European countries: France, Luxembourg, Germany, Netherlands, Belgium, Switzerland, Italy, Monaco and Vatican City. This tour is a perfect introduction to Europe, ideal for first timers and those who want to explore and experience as much as possible in 15 days. You'll start your journey enjoying the breathtaking mountain scenery of Switzerland before heading south into Italy, where you will have the opportunity to experience hundreds of years of tradition and culture. Discover the glamorous French Riviera and return to Paris to conclude your tour and be part of a truly memorable journey.</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+      <div class="box">
+         <div class="image">
+            <img src="images/image-2.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Explore Vietnam & Cambodia</h3>
+            <p>The 07-days taste of Vietnam and Cambodia tour will take you to the heart of beautiful Asian country: Vietnam and Cambodia.Discover The Glamorous French Riviera And Return To Paris To Conclude Your Tour And Be Part Of A . This tour is a perfect introduction to Asia, ideal for first timers and those who want to explore and experience as much as possible in 07 days. You'll start your journey enjoying the breathtaking Island scenery of Hanoi, Siem Reap where you will have the opportunity to experience hundreds of years of tradition and culture. Discover the amazing traditional life of Angkor and next day transfer to Airport to conclude your tour and be part of a truly memorable journey.</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+      <div class="box">
+         <div class="image">
+            <img src="images/image-3.jpg" alt="">
+         </div>
+         <div class="content">
+            <h3>Mighty Visit to Egypt</h3>
+            <p>The 07-days taste of Egypt tour will take you to the heart of beautiful Asian country: Vietnam and Cambodia. This tour is a perfect introduction to Asia, ideal for first timers and those who want to explore and experience as much as possible in 07 days. You'll start your journey enjoying the breathtaking Island scenery of Hanoi, Siem Reap where you will have the opportunity to experience hundreds of years of tradition and culture. Discover the amazing traditional life of Angkor and next day transfer to Airport to conclude your tour and be part of a truly memorable journey.To Paris To Conclude Your Tour And Be Part Of A Truly Memorable Journey.To Paris To Conclude Your Tour And Be Part Of A Truly Memorable Journey.</p>
+            <a href="book.php" class="btn">book now</a>
+         </div>
+      </div>
+<!-- 3 card ends  -->
+   </div>
+<!-- package section ends  -->
+<!-- load more button starts -->
+   <div class="load-more"> <a href="package.php" class="btn">load more</a> </div>
+  <!-- load more button ends -->
+</section>
+<!-- home packages section ends -->
+
+
+
+
 
 
 
