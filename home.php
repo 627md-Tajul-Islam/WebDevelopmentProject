@@ -20,7 +20,7 @@
 <!-- header section starts  -->
 <section class="header">
 <!-- Title starts here  -->
-   <a href="home.php" class="logo">Travel</a>
+   <a href="home.php" class="logo">Albatros Travels</a>
 <!-- Title ends here  -->
 <!-- menu starts here  -->
    <nav class="navbar">
@@ -35,6 +35,84 @@
 <!-- Menu Toggle Icon ends here  -->
 </section>
 <!-- header section ends -->
+
+<!-- home section starts  -->
+<section class="home">
+<!-- home container starts  -->
+   <div class="swiper home-slider">
+
+      <div class="swiper-wrapper">
+<!-- 3 div starts  -->
+         <div class="swiper-slide slide" style="background:url(images/home-slide-1.jpg) no-repeat">
+            <div class="content">
+               <span>Travel is the only thing you buy that makes you richer</span>
+               <h3>travel around the world</h3>
+               <a href="package.php" class="btn">discover more</a>
+            </div>
+         </div>
+         <div class="swiper-slide slide" style="background:url(images/home-slide-2.jpg) no-repeat">
+            <div class="content">
+               <span>Life is a journey, not a destination</span>
+               <h3>discover the new places</h3>
+               <a href="package.php" class="btn">discover more</a>
+            </div>
+         </div>
+         <div class="swiper-slide slide" style="background:url(images/home-slide-3.jpg) no-repeat">
+            <div class="content">
+               <span>"Do not look back with regret</span>
+               <h3>make your tour worthwhile</h3>
+               <a href="package.php" class="btn">discover more</a>
+            </div>
+         </div>
+      </div>
+<!-- carousel button starts  -->
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+<!-- carousel button ends  -->
+   </div>
+<!-- home container ends  -->
+</section>
+<!-- home section ends -->
+
+
+
+
+<!-- services section starts  -->
+<section class="services">
+   <h1 class="heading-title"> our services </h1>
+<!-- services card starts  -->
+   <div class="box-container">
+      <div class="box">
+         <img src="images/icon-1.png" alt="">
+         <h3>adventure</h3>
+      </div>
+      <div class="box">
+         <img src="images/icon-2.png" alt="">
+         <h3>tour guide</h3>
+      </div>
+      <div class="box">
+         <img src="images/icon-3.png" alt="">
+         <h3>trekking</h3>
+      </div>
+      <div class="box">
+         <img src="images/icon-4.png" alt="">
+         <h3>camp fire</h3>
+      </div>
+      <div class="box">
+         <img src="images/icon-5.png" alt="">
+         <h3>off road</h3>
+      </div>
+      <div class="box">
+         <img src="images/icon-6.png" alt="">
+         <h3>camping</h3>
+      </div>
+   </div>
+<!-- services card ends  -->
+</section>
+<!-- services section ends -->
+
+
+
 
 
 <!-- footer starts  -->
@@ -79,7 +157,7 @@
 <!-- Follow us menu ends here  -->
    </div>
 
-   <div class="credit"> created by <span id="special"><a target="_blank" href="https://github.com/627md-Tajul-Islam">Tajul Islam & Team</span></a> | all rights reserved! </div>
+   <div class="credit"> created by <span id="special"><a target="_blank" href="https://github.com/627md-Tajul-Islam">Tajul Islam & Team</span></a> | all rights reserved </div>
 <!-- footer menu ends here  -->
 </section>
 <!-- footer ends -->
