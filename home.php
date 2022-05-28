@@ -37,42 +37,48 @@
 <!-- header section ends -->
 
 <!-- home section starts  -->
+
 <section class="home">
-<!-- home container starts  -->
+
    <div class="swiper home-slider">
 
       <div class="swiper-wrapper">
-<!-- 3 div starts  -->
+
          <div class="swiper-slide slide" style="background:url(images/home-1.jpg) no-repeat">
             <div class="content">
-               <span>Travel is the only thing you buy that makes you richer</span>
-               <h3>travel around the world</h3>
+               <span>explore, discover, travel</span>
+               <h3>travel arround the world</h3>
                <a href="package.php" class="btn">discover more</a>
             </div>
          </div>
+
          <div class="swiper-slide slide" style="background:url(images/home-2.jpg) no-repeat">
             <div class="content">
-               <span>Life is a journey, not a destination</span>
+               <span>explore, discover, travel</span>
                <h3>discover the new places</h3>
                <a href="package.php" class="btn">discover more</a>
             </div>
          </div>
+
          <div class="swiper-slide slide" style="background:url(images/home-3.jpg) no-repeat">
             <div class="content">
-               <span>"Do not look back with regret</span>
+               <span>explore, discover, travel</span>
                <h3>make your tour worthwhile</h3>
                <a href="package.php" class="btn">discover more</a>
             </div>
          </div>
+         
       </div>
-<!-- carousel button starts  -->
+
       <div class="swiper-button-next"></div>
       <div class="swiper-button-prev"></div>
-<!-- carousel button ends  -->
+
    </div>
-<!-- home container ends  -->
+
 </section>
+
 <!-- home section ends -->
+
 
 <!-- home about section starts  -->
 <section class="home-about">
@@ -165,6 +171,12 @@
   <!-- load more button ends -->
 </section>
 <!-- home packages section ends -->
+
+
+
+
+
+
 
 <!-- offer section starts  -->
 <section class="home-offer">
